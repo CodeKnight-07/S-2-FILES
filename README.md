@@ -1,4 +1,4 @@
-# S-2-FILES
+# Competitive Programming problem
 This project features an original competitive programming problem made by me.
 
 Polygon problem link: 
